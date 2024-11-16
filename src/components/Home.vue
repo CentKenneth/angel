@@ -15,7 +15,7 @@
         </div>
         <!-- Second Div: Image and Name on the Right -->
         <div class="flex flex-col items-center lg:w-1/2">
-          <img src="/profile1.jpg" alt="Angel" class="rounded-full w-48 sm:w-60 lg:w-72 h-48 sm:h-60 lg:h-72 object-cover border-2 border-headerBackground">
+          <img src="/src/assets/images/profile1.jpg" alt="Angel" class="rounded-full w-48 sm:w-60 lg:w-72 h-48 sm:h-60 lg:h-72 object-cover border-2 border-headerBackground">
           <p class="mt-4 text-gray-900 bg-loginButtonBackground px-2 border-2 border-custom-orange rounded-lg">
            Angel Joy Gabero
           </p>

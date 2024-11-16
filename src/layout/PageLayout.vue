@@ -8,7 +8,7 @@
                             <div class="flex items-center">
                                 <div class="flex-shrink-0">
                                     <img class="h-8 w-8"
-                                        src="/logo1.png"
+                                        src="/src/assets/images/logo.png"
                                         alt="Your Company" />
                                 </div>
                                 <span class="ml-2 text-white text-lg font-bold"></span>
